@@ -1,0 +1,4 @@
+# Проект task-time-tracker
+# Внешние библиотеки не требуются.
+# Используются стандартные библиотеки Python:
+# time, datetime, unittest, unittest.mock
